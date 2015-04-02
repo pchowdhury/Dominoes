@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/pre-dexed/debug/classes-0c56eea81e8e4216996834a6df47906333c7eeb1.jar" />
+    </item>
+    <item
+        jar="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fe642453acb33f92e996ceefc7a9d49116afe90d.jar" />
+    </item>
+    <item
+        jar="/@Work/Android/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d6c144ecb11dd78b0c076b0d5595ae557237f97e.jar" />
+    </item>
+    <item
+        jar="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/@Work/Android/AndroidstudioProjects/Dominoes/app/build/intermediates/pre-dexed/debug/classes-50dbea9ea135b767ffd22b1d9fe94620fd85a456.jar" />
+    </item>
+
+</items>
